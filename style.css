@@ -1,0 +1,125 @@
+.tombol {
+	text-transform: uppercase;
+	border-radius: 30px;
+}
+
+.nav-item {
+	margin:10px 10px 0px;
+	margin-left: auto;
+	text-transform: uppercase;
+}
+
+.nav-item:hover{
+
+	border-bottom: 2px solid lightblue;
+}
+
+.navbar-brand{
+	font-family: 'Permanent Marker', cursive;
+	font-size: 36px;
+
+}
+.jumbotron{
+	background-image: url(img/orang.jpg);
+	min-height: 650px;
+	background-position: center;
+	background-size: cover;
+	margin-top: -150px;
+
+
+}
+.jumbotron h1{
+	color: white;
+	margin-top: 150px;
+}
+
+.panel h4{
+
+	font-weight: bold;
+
+}
+.panel p{
+
+	font-size: 16px;
+	font-weight: 300;
+	color: grey;
+
+}
+
+.panel {
+
+	margin-top: -100px;
+	background-color: white;
+	padding: 30px;
+	border-radius: 30px;
+	box-shadow: 1px 0px 10px black;
+}
+
+.gallery{
+
+	margin-top: 100px;
+}
+
+.gallery img {
+	border-radius: 30px; 
+}
+.gallery span {
+	font-weight: 500;
+
+}
+.gallery h1{
+
+	text-transform: uppercase;
+
+}
+
+.gallery p{
+
+	color: grey;
+}
+
+.testi {
+
+	padding-bottom: 100px;
+}
+.testi p{
+	font-style:italic;
+	font-size: 36px;
+	margin-top: 75px;
+}
+
+.testi img {
+	margin-top: 30px;
+	width: 75px;
+	filter: grayscale(100%);
+}
+
+.testi .warna{
+
+	filter: grayscale(0);
+	width:125px; 
+}
+
+.nama h5 {
+	margin-top: 10px;
+}
+
+.nama span {
+	color: grey;
+	font-size: 12px;
+
+}
+
+.panel img {
+
+	width: 100px;
+	margin-right: 10px;
+}
+
+
+
+
+
+
+
+
